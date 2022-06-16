@@ -1,0 +1,16 @@
+F:\Carrera de Analista de Sistemas\Programacion Orientada a Objetos\Ejercicios\89-FuncionDeSuma\bin\Debug\net5.0\89-FuncionDeSuma.exe
+F:\Carrera de Analista de Sistemas\Programacion Orientada a Objetos\Ejercicios\89-FuncionDeSuma\bin\Debug\net5.0\89-FuncionDeSuma.deps.json
+F:\Carrera de Analista de Sistemas\Programacion Orientada a Objetos\Ejercicios\89-FuncionDeSuma\bin\Debug\net5.0\89-FuncionDeSuma.runtimeconfig.json
+F:\Carrera de Analista de Sistemas\Programacion Orientada a Objetos\Ejercicios\89-FuncionDeSuma\bin\Debug\net5.0\89-FuncionDeSuma.runtimeconfig.dev.json
+F:\Carrera de Analista de Sistemas\Programacion Orientada a Objetos\Ejercicios\89-FuncionDeSuma\bin\Debug\net5.0\89-FuncionDeSuma.dll
+F:\Carrera de Analista de Sistemas\Programacion Orientada a Objetos\Ejercicios\89-FuncionDeSuma\bin\Debug\net5.0\ref\89-FuncionDeSuma.dll
+F:\Carrera de Analista de Sistemas\Programacion Orientada a Objetos\Ejercicios\89-FuncionDeSuma\bin\Debug\net5.0\89-FuncionDeSuma.pdb
+F:\Carrera de Analista de Sistemas\Programacion Orientada a Objetos\Ejercicios\89-FuncionDeSuma\obj\Debug\net5.0\89-FuncionDeSuma.GeneratedMSBuildEditorConfig.editorconfig
+F:\Carrera de Analista de Sistemas\Programacion Orientada a Objetos\Ejercicios\89-FuncionDeSuma\obj\Debug\net5.0\89-FuncionDeSuma.AssemblyInfoInputs.cache
+F:\Carrera de Analista de Sistemas\Programacion Orientada a Objetos\Ejercicios\89-FuncionDeSuma\obj\Debug\net5.0\89-FuncionDeSuma.AssemblyInfo.cs
+F:\Carrera de Analista de Sistemas\Programacion Orientada a Objetos\Ejercicios\89-FuncionDeSuma\obj\Debug\net5.0\89-FuncionDeSuma.csproj.CoreCompileInputs.cache
+F:\Carrera de Analista de Sistemas\Programacion Orientada a Objetos\Ejercicios\89-FuncionDeSuma\obj\Debug\net5.0\89-FuncionDeSuma.dll
+F:\Carrera de Analista de Sistemas\Programacion Orientada a Objetos\Ejercicios\89-FuncionDeSuma\obj\Debug\net5.0\ref\89-FuncionDeSuma.dll
+F:\Carrera de Analista de Sistemas\Programacion Orientada a Objetos\Ejercicios\89-FuncionDeSuma\obj\Debug\net5.0\89-FuncionDeSuma.pdb
+F:\Carrera de Analista de Sistemas\Programacion Orientada a Objetos\Ejercicios\89-FuncionDeSuma\obj\Debug\net5.0\89-FuncionDeSuma.genruntimeconfig.cache
+F:\Carrera de Analista de Sistemas\Programacion Orientada a Objetos\Ejercicios\89-FuncionDeSuma\obj\Debug\net5.0\89-FuncionDeSuma.csproj.AssemblyReference.cache
